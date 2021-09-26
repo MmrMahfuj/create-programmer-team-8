@@ -5,7 +5,6 @@ import { faShoppingCart, faUserCheck } from '@fortawesome/free-solid-svg-icons';
 const Cart = (props) => {
     console.log(props.cart);
     const { cart } = props;
-    console.log(cart);
 
     const totalAmount = cart.reduce((previous, current) => previous + current.hire, 0)
 
