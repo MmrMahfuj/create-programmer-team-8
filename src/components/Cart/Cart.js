@@ -12,7 +12,7 @@ const Cart = (props) => {
 
 
     return (
-        <div className="m-3 p-2 border rounded cart-color">
+        <div className="m-3 p-3 border rounded cart-color">
             <h3 className="fw-bold"><FontAwesomeIcon icon={faUserCheck} /> Programmers Added: {cart.length}</h3>
             <h4 className="ms-5 fw-bold">Total Payment: ${totalAmount}</h4>
             <ul>
