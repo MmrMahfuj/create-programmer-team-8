@@ -17,7 +17,7 @@ const TeamContainer = () => {
         setCart(newCart);
     }
     return (
-        <div className="container-fluid bg-light">
+        <div className="container-fluid bg-info">
             <div className="row">
                 <div className="col-md-8">
                     <div className="row g-4">

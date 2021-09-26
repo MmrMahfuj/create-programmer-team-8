@@ -7,7 +7,7 @@ const Programmer = (props) => {
     const { name, language, category, experience, hire, img } = props.programmer;
     return (
         <div className="col-md-4">
-            <div className="ms-3 container cart-color rounded border m-2 p-3  h-100">
+            <div className="ms-3 container cart-color rounded-3 border m-2 p-3  h-100">
                 <div className="text-center mb-4">
                     <img className="rounded-circle img-size" src={img} alt="" />
                 </div>
