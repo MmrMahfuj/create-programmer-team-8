@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Dennis MacAlistair",
+        "language": "C programming",
+        "category": "development of the UNIX ",
+        "experience": "15 years",
+        "hire": 20000,
+        "id": 1,
+        "img": "https://mahfuj-image.netlify.app/1.png"
+    },
+    {
+        "name": "Bjarne Stroustrup",
+        "language": "C++",
+        "category": "development of C++ language",
+        "experience": "9 years",
+        "hire": 18000,
+        "id": 2,
+        "img": "https://mahfuj-image.netlify.app/2.png"
+    },
+    {
+        "name": "James Arthur",
+        "language": "Java",
+        "category": "Software engineer",
+        "experience": "12 years",
+        "hire": 23000,
+        "id": 3,
+        "img": "https://mahfuj-image.netlify.app/3.png"
+    },
+    {
+        "name": "Linus Benedict",
+        "language": "Linux kernel",
+        "category": "software Subsurface",
+        "experience": "8 years",
+        "hire": 11000,
+        "id": 4,
+        "img": "https://mahfuj-image.netlify.app/4.png"
+    },
+    {
+        "name": "Andres Hejlsberg",
+        "language": "C#",
+        "category": "Turbo Pascal",
+        "experience": "10 years",
+        "hire": 9000,
+        "id": 5,
+        "img": "https://mahfuj-image.netlify.app/5.png"
+    },
+    {
+        "name": "Tim Berners",
+        "language": "w3c",
+        "category": "system information management",
+        "experience": "13 years",
+        "hire": 25000,
+        "id": 6,
+        "img": "https://mahfuj-image.netlify.app/6.png"
+    },
+    {
+        "name": "Ken Thompson",
+        "language": "C programming",
+        "category": "UNIX operating system",
+        "experience": "18 years",
+        "hire": 30000,
+        "id": 7,
+        "img": "https://mahfuj-image.netlify.app/7.png"
+    },
+    {
+        "name": "Brian Kernighan",
+        "language": "C programming",
+        "category": "development of Unix.",
+        "experience": "12 years",
+        "hire": 19000,
+        "id": 8,
+        "img": "https://mahfuj-image.netlify.app/8.png"
+    },
+    {
+        "name": "Guido Von Rossum",
+        "language": "Python",
+        "category": "creator of Python programming",
+        "experience": "10 years",
+        "hire": 21000,
+        "id": 9,
+        "img": "https://mahfuj-image.netlify.app/9.png"
+    },
+    {
+        "name": "Donald Knuth",
+        "language": "Art of computer",
+        "category": "father of algorithm",
+        "experience": "15 years",
+        "hire": 40000,
+        "id": 10,
+        "img": "https://mahfuj-image.netlify.app/10.png"
+    },
+    {
+        "name": "Niklaus Wirth",
+        "language": "C++, java",
+        "category": "Swiss computer scientist",
+        "experience": "5 years",
+        "hire": 16000,
+        "id": 11,
+        "img": "https://mahfuj-image.netlify.app/11.png"
+    },
+    {
+        "name": "Alan Curtis",
+        "language": "python, java, c#",
+        "category": "computer scientist",
+        "experience": "12 years",
+        "hire": 10000,
+        "id": 12,
+        "img": "https://mahfuj-image.netlify.app/12.png"
+    },
+    {
+        "name": "John McCarthy",
+        "language": "cognitive scientist",
+        "category": "Artificial Intelligence",
+        "experience": "7 years",
+        "hire": 50000,
+        "id": 13,
+        "img": "https://mahfuj-image.netlify.app/13.png"
+    },
+    {
+        "name": "John George",
+        "language": "python, c++",
+        "category": "computer scientist",
+        "experience": "19 years",
+        "hire": 24000,
+        "id": 14,
+        "img": "https://mahfuj-image.netlify.app/14.png"
+    },
+    {
+        "name": "Grace Hopper",
+        "language": "compiler",
+        "category": "US Navy rear admiral",
+        "experience": "9 years",
+        "hire": 12000,
+        "id": 15,
+        "img": "https://mahfuj-image.netlify.app/15.png"
+    },
+    {
+        "name": "John Backus",
+        "language": "c#, Unix",
+        "category": "developer of FORTRAN",
+        "experience": "2 years",
+        "hire": 20000,
+        "id": 16,
+        "img": "https://mahfuj-image.netlify.app/16.png"
+    }
+]
