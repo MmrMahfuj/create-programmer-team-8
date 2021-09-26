@@ -1,11 +1,17 @@
 /* google font link  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+body{
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+.cart-color{
+    background-color: white;
+}
 .img-size{
     width: 150px;
     height: 150px;
 }
-body{
-    overflow-x: hidden;
-    font-family: 'Poppins', sans-serif;
+.name-height{
+    line-height: 70px;
 }
